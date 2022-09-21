@@ -15,11 +15,11 @@ Si tienen interés pueden explorar la página con documentación oficial para en
 - Visual Studio Code
 
 ### Esquemas
-> "ManejoBD", [Link]([https://github.com/noemack/Python_SQLitle/blob/main/ManejoBD.py)
+> "ManejoBD", [Link]([https://github.com/noemack/Python_SQLitle/blob/main/ManejoBD.py))
 
 Conexión - Definición de la BD - Operaciones de tablas: crear, modificar, eliminar, ingresar registros, modificar registros, eliminar regitros y consultar
 
 
-> "ManejoBD", [Link](https://github.com/noemack/Python_SQLitle/blob/main/AgregacionBD.py))
+> "AgrecaciónBD", [Link](https://github.com/noemack/Python_SQLitle/blob/main/AgregacionBD.py))
 
 Conexión - Definición de la BD - Operaciones de agregación (COUNT, SUM, MAX, MIN, AVG, UPPER, LOWER, LENGTH)
