@@ -19,15 +19,15 @@ Si tienen interés pueden explorar la página con documentación oficial para en
 
 
 
-### Esquemas
+### Esquema
 
 > "ManejoBD", [Link](https://github.com/noemack/Python_SQLitle/blob/main/ManejoBD.py)
 
-##### Conexión - Definición de la BD - Operaciones de tablas: crear, modificar, eliminar, ingresar registros, modificar registros, eliminar regitros y consultar
+##### Conexión - Definición de la BD - Operaciones de tablas: crear, modificar, eliminar, ingresar registros, modificar registros, eliminar registros y consultar
 
 
 
-> "AgrecaciónBD", [Link](https://github.com/noemack/Python_SQLitle/blob/main/AgregacionBD.py)
+> "AgregaciónBD", [Link](https://github.com/noemack/Python_SQLitle/blob/main/AgregacionBD.py)
 
 ##### Conexión - Definición de la BD - Operaciones de agregación (COUNT, SUM, MAX, MIN, AVG, UPPER, LOWER, LENGTH)
 
