@@ -17,7 +17,9 @@ Si tienen interés pueden explorar la página con documentación oficial para en
 - SQLitle
 - Visual Studio Code
 
-> ***Tener en cuenta que en algunas partes el código puede estar comentado, quitar para probar las diferentes operaciones y funciones
+> Tener en cuenta que en algunas partes el código puede estar comentado, quitar para probar las diferentes operaciones y funciones
+
+----
 
 
 ### Esquema
