@@ -11,7 +11,7 @@ Si tienen interés pueden explorar la página con documentación oficial para en
 
 
 
-### Herramientas
+## Herramientas
 
 - Python
 - SQLitle
@@ -19,10 +19,9 @@ Si tienen interés pueden explorar la página con documentación oficial para en
 
 > Tener en cuenta que en algunas partes el código puede estar comentado, quitar para probar las diferentes operaciones y funciones
 
----
 
 
-### Esquema
+## Esquema
 
 > "ManejoBD", [Link](https://github.com/noemack/Python_SQLitle/blob/main/ManejoBD.py)
 
