@@ -6,7 +6,7 @@ import sqlite3
 data = pd.read_csv('Dataset3.csv', sep= ';')
 print(data)
 
-# conexion y ceación de la base de datos womens
+# conexión y creación de la base de datos womens
 con = sqlite3.connect ('womens.db')
 data.to_sql ('class', con, if_exists= 'replace', index= False) # tabla , parámetro de conexión y validación si existe
 cursor = con.cursor() # método cursor
