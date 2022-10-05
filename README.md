@@ -51,7 +51,6 @@ Si tienen interés pueden explorar la página con documentación oficial para en
 ##### Pandas: Read - Conexión - Creación de la BD - Exploración (columns, rename, info(), shape, isnull(), duplicated(), iloc, value_counts() y Consultas (pd.read_csv, pd.read_sql, pd.DataFrame, pd.crosstab)
 
 > Librería Pandas: es una librería especializada en el manejo y análisis de estructuras de datos
-> Algunas características:
 > - Permite cargar datos, modelar, analizar, filtrar y manipular
 > - Permite leer y escribir fácilmente ficheros en formato CSV, Excel y bases de datos SQL
 > - Permite acceder a los datos mediante índices o nombres para filas y columnas
