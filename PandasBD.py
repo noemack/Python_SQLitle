@@ -43,7 +43,7 @@ print(data.isnull().all(axis=1), '\n') # se aplica a las filas
 print('Duplicados?')
 print(data.duplicated().value_counts, '\n')
 
-# primera columna
+# primera y última fila
 print('Primera y última fila: ')
 print(data.iloc[0])
 print(data.iloc[-1], '\n')
